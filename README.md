@@ -9,15 +9,16 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-class Jimmy:
+class DL_Enthusiast:
     def __init__(self):
         self.name = "Voravich Chaturavichanan"
+        self.nickname = "Jimmy"
         self.role = "Student"
         self.nationality = "Thai"
         self.language = ["Python", "R", "SQL"]
 
 def main():
-    me = Jimmy()
+    me = DL_Enthusiast()
 
 if __name__ == "__main__":
     main()
