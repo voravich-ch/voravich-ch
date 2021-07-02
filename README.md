@@ -3,7 +3,7 @@
 <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=voravich-ch.voravich-ch"/> 
 <a href="https://www.linkedin.com/in/voravich-ch/"> <img src="https://img.shields.io/badge/-voravich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voravich-ch/"/> </a>
 
-<p><em>MSc Business Analytics at <a href="https://www.cass.city.ac.uk/">Cass Business School</a></em></p>
+<p><em>MSc Business Analytics at <a href="https://www.cass.city.ac.uk/study/masters/courses/business-analytics">Cass Business School</a></em></p>
 
 ```python
 #!/usr/bin/python3
