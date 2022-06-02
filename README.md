@@ -1,4 +1,4 @@
-### Hi, I'm Jimmy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Jimmy!
 
 <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=voravich-ch.voravich-ch"/> 
 <a href="https://www.linkedin.com/in/voravich-ch/"> <img src="https://img.shields.io/badge/-voravich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voravich-ch/"/> </a>
