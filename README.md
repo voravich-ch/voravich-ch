@@ -9,7 +9,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-class Profile:
+class Voravich:
     def __init__(self):
         self.name = "Voravich Chaturavichanan"
         self.nickname = "Jimmy"
@@ -19,7 +19,7 @@ class Profile:
         self.interest = ["Data Science", "Cognitive Psychology", "Causal Statistics"]
 
 def main():
-    me = Research_Student()
+    me = Voravich()
 
 if __name__ == "__main__":
     main()
