@@ -13,7 +13,7 @@ class Research_Student:
     def __init__(self):
         self.name = "Voravich Chaturavichanan"
         self.nickname = "Jimmy"
-        self.role = "Student"
+        self.role = "Researcher"
         self.nationality = "Thai"
         self.language = ["Python", "R", "SQL"]
         self.interest = ["Data Science", "Cognitive Psychology", "Causal Statistics"]
