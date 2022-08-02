@@ -9,7 +9,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-class Research_Student:
+class Profile:
     def __init__(self):
         self.name = "Voravich Chaturavichanan"
         self.nickname = "Jimmy"
