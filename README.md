@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/voravich-ch/"> <img src="https://img.shields.io/badge/-voravich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voravich-ch/"/> </a>
 
-<p><em>Financial Stability Analyst at the <a href="https://www.bot.or.th/en/our-roles/financial-stability.html">Bank of Thailand</a></em></p>
+<p><em>Senior Financial Stability Analyst at the <a href="https://www.bot.or.th/en/our-roles/financial-stability.html">Bank of Thailand</a></em></p>
 
 ```python
 #!/usr/bin/python3
