@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/voravich-ch/"> <img src="https://img.shields.io/badge/-voravich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voravich-ch/"/> </a>
 <a href="https://voravich-ch.github.io"> <img src="https://img.shields.io/badge/-Portfolio-1c3d5a?style=flat-square&logoColor=white"/> </a>
 
-<p><em>Economics · Quantitative Research · Financial Markets — MSc Quantitative Economics candidate (NUS), Singapore</em></p>
+<p><em>Economics · Quantitative Research · Financial Markets — MSc Economics (Quantitative Economics track) (NUS), Singapore</em></p>
 
 ```python
 #!/usr/bin/python3
