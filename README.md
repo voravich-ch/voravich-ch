@@ -1,8 +1,9 @@
 ### Hi, I'm Jimmy!
 
 <a href="https://www.linkedin.com/in/voravich-ch/"> <img src="https://img.shields.io/badge/-voravich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voravich-ch/"/> </a>
+<a href="https://voravich-ch.github.io"> <img src="https://img.shields.io/badge/-Portfolio-1c3d5a?style=flat-square&logoColor=white"/> </a>
 
-<p><em>Senior Financial Stability Analyst at the <a href="https://www.bot.or.th/en/our-roles/financial-stability.html">Bank of Thailand</a></em></p>
+<p><em>Economics · Quantitative Research · Financial Markets — MSc Quantitative Economics candidate (NUS), Singapore</em></p>
 
 ```python
 #!/usr/bin/python3
@@ -12,10 +13,10 @@ class Voravich:
     def __init__(self):
         self.name = "Voravich Chaturavichanan"
         self.nickname = "Jimmy"
-        self.role = "Researcher"
+        self.role = "Macro & Quantitative Researcher"
         self.nationality = "Thai"
         self.language = ["Python", "R", "SQL"]
-        self.interest = ["Data Science", "Cognitive Psychology", "Causal Statistics"]
+        self.interest = ["Macroeconomics", "Quantitative Finance", "AI-assisted Research"]
 
 def main():
     me = Voravich()
