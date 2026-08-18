@@ -16,7 +16,7 @@ class Voravich:
         self.role = "Macro & Quantitative Researcher"
         self.nationality = "Thai"
         self.language = ["Python", "R", "SQL"]
-        self.interest = ["Macroeconomics", "Quantitative Finance", "AI-assisted Research"]
+        self.interest = ["Macroeconomics", "Quantitative Finance"]
 
 def main():
     me = Voravich()
